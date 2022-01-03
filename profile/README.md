@@ -1,9 +1,9 @@
 ![Ray Kooyenga header](https://raw.githubusercontent.com/rkooyenga/.github/main/profile/twitter-banner.jpg) 
 
 Welcome to Ray Kooyenga's org area
-**A place to consolidate some repo work**
+*A place to consolidate some repo work*
 
-🐮 ![Ray Kooyenga](https://rkooyenga.github.io)
+🐮 [Ray Kooyenga](https://rkooyenga.github.io)
 
 
 <!--

@@ -1,0 +1,15 @@
+{
+  "name": "rkooyenga",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rkooyenga/rkooyenga.git",
+  "author": "ray kooyenga <rkooyenga@users.noreply.github.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "node --experimental-modules index.js"
+  },
+  "dependencies": {
+    "xml2json": "^0.12.0"
+  }
+}

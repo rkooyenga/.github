@@ -15,7 +15,7 @@ const fetchArticles = async () => {
 };
 
 async function main() {
-  const readme = fs.readFileSync("./README.md", "utf8");
+  const readme = fs.readFileSync("./profile/README.md", "utf8");
   const indexBefore = readme.indexOf(TAG_OPEN) + TAG_OPEN.length;
   const indexAfter = readme.indexOf(TAG_CLOSE);
   const readmeContentChunkBreakBefore = readme.substring(0, indexBefore);

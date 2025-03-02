@@ -2,7 +2,8 @@ name: Fetch recent blog posts
 on:
   schedule:
     - cron: "* */6 * * *"
-
+  workflow_dispatch:
+  
 jobs:
   fetch-recent-blog-posts:
     name: Fetch recent blog posts

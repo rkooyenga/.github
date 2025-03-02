@@ -2,7 +2,7 @@
   "name": "rkooyenga",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:rkooyenga/rkooyenga.git",
+  "repository": "git@github.com:rkooyenga/.github.git",
   "author": "ray kooyenga <rkooyenga@users.noreply.github.com>",
   "license": "MIT",
   "type": "module",
